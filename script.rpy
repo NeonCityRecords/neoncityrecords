@@ -1,14 +1,16 @@
 define mc = Character('Main Character', color="#c8ffc8")
-define s = Character('Supporting Character', color="#c8c8ff")
+define sc = Character('Supporting Character', color="#c8c8ff")
 
 label start:
 
-    s "Hi there! How was class?"
+    sc "Can't believe you actually did it."
 
-    m "Good..."
+    mc "Yup."
 
-    "I can't bring myself to admit that it all went in one ear and out the other."
+    sc "Must've been you know..."
 
-    s "Are you going home now? Wanna walk back with me?"
+    mc "Yeah."
 
-    m "Sure!"
+    sc "Difficult."
+    
+    mc "
